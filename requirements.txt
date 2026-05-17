@@ -1,0 +1,10 @@
+pandas
+numpy
+pvlib
+pyomo
+scipy
+matplotlib
+plotly
+pytest
+requests
+pyarrow
