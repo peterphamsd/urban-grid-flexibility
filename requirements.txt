@@ -8,3 +8,4 @@ plotly
 pytest
 requests
 pyarrow
+highspy
